@@ -18,7 +18,7 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 - 💡 I love transforming complex ideas into beautiful, functional interfaces  
 - 🤝 Collaboration and clean code are at the heart of everything I build
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odunsih1&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odunsih&show_icons=true&theme=radical)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
