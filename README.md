@@ -21,7 +21,7 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 - 🤝 Collaboration and clean code are at the heart of everything I build
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odunsih1&show_icons=true&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odunsih1&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odunsih1&theme=dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odunsih1&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odunsih1&theme=dark)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
