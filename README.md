@@ -20,14 +20,12 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odunsih1&show_icons=true&theme=radical)
 
-### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=odunsih1&theme=radical)
 
 ## 📫 Let’s connect!
-
-- [LinkedIn](https://www.linkedin.com/in/henry-odunsi)  
-- [Twitter](https://twitter.com/HENRYODUNSI5)  
 - Email: henryodunsi05@gmail.com
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-odunsi)
