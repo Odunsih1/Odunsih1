@@ -2,7 +2,7 @@
 
 I’m a passionate Frontend Developer with an HND in Electrical & Electronics Engineering. I specialize in building innovative, user-friendly web applications that deliver seamless digital experiences.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odunsih1&theme=default
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odunsih1&theme=dark)
 
 ## 🚀 Tech Stack
 
@@ -22,6 +22,8 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odunsih1&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odunsih1&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odunsih1&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odunsih1&theme=dark)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
