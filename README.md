@@ -28,9 +28,12 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 
 - [LinkedIn](https://www.linkedin.com/in/henry-odunsi)  
 - [Twitter](https://twitter.com/HENRYODUNSI5)  
-- Email: henryodunsi05@gmail.com 
+- Email: henryodunsi05@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odunsih1&layout=compact&theme=radical)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-odunsi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/HENRYODUNSI5)
+
+![Profile Views](https://komarev.com/ghpvc/?username=odunsih1&color=blue)
 
 ---
 
