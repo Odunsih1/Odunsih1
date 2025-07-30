@@ -9,6 +9,8 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 - **Tools:** Git & GitHub, VS Code, postman 
 - **Other Cool Stuff:** Responsive Design
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odunsih1&layout=compact&theme=radical)
+
 ## 🌟 About Me
 
 - ⚡ Always eager to learn the latest in frontend tech and design trends  
@@ -16,11 +18,19 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 - 💡 I love transforming complex ideas into beautiful, functional interfaces  
 - 🤝 Collaboration and clean code are at the heart of everything I build
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odunsih1&show_icons=true&theme=radical)
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📫 Let’s connect!
 
 - [LinkedIn](https://www.linkedin.com/in/henry-odunsi)  
 - [Twitter](https://twitter.com/HENRYODUNSI5)  
 - Email: henryodunsi05@gmail.com 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odunsih1&layout=compact&theme=radical)
 
 ---
 
