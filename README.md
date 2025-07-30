@@ -23,7 +23,7 @@ I’m a passionate Frontend Developer with an HND in Electrical & Electronics En
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=odunsih1&theme=radical)
+
 
 ## 📫 Let’s connect!
 - Email: henryodunsi05@gmail.com
