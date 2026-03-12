@@ -93,7 +93,7 @@
   "email"    : "henryodunsi05@gmail.com",
   "linkedin" : "https://linkedin.com/in/henry-odunsi",
   "twitter"  : "https://twitter.com/HENRYODUNSI5",
-  "portfolio": "https://henryodunsi.vercel.app/"
+  "portfolio": "https://henryodunsi.com"
 }
 ```
 
