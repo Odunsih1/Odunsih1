@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Henry!**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;HND+Electrical+%26+Electronics+Eng.+%F0%9F%94%8C)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;Accessibility+Enthusiast+%E2%9A%9B%EF%B8%8F;HND+Electrical+%26+Electronics+Eng.+%F0%9F%94%8C)
 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://henryodunsi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-odunsi)
