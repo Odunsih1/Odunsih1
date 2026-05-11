@@ -19,7 +19,7 @@
   "name"     : "Henry Odunsi",
   "role"     : "Frontend Developer",
   "education": "HND · Electrical & Electronics Engineering",
-  "focus"    : "Building innovative, user-friendly web applications",
+  "focus"    : "Building accessible, user-friendly web applications",
   "status"   : "Open to opportunities"
 }
 ```
@@ -30,10 +30,10 @@
 
 ```json
 [
-  "⚡  Always eager to learn the latest in frontend tech & design trends",
-  "🔧  Strong problem-solving skills honed from an engineering background",
-  "💡  Love transforming complex ideas into beautiful, functional interfaces",
-  "🤝  Collaboration and clean code are at the heart of everything I build"
+  "  Always eager to learn the latest in frontend tech & design trends",
+  "  Strong problem-solving skills honed from an engineering background",
+  "  Love transforming complex ideas into beautiful, functional interfaces",
+  "  Collaboration and clean code are at the heart of everything I build"
 ]
 ```
 
